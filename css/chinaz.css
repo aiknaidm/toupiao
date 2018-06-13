@@ -3,8 +3,8 @@ body {margin:0}
 .headline-bg.index-headline-bg {
 	height:680px;
 	overflow:hidden;
-	background:-webkit-linear-gradient(top,#89457a,#f39ec2);
-	background:-moz-linear-gradient(top,#89457a,#f39ec2);
-	background:-o-linear-gradient(top,#89457a,#f39ec2);
-	background:-ms-linear-gradient(top,#89457a,#f39ec2);
+	background:-webkit-linear-gradient(top,#89457a,#e46e7a);
+	background:-moz-linear-gradient(top,#89457a,#e46e7a);
+	background:-o-linear-gradient(top,#89457a,#e46e7a);
+	background:-ms-linear-gradient(top,#89457a,#e46e7a);
 }
